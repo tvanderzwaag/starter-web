@@ -8,7 +8,7 @@ As stated above, this is a smaple repository for learning Git and GitHub.
 
 ## How To Contribute
 
-This is how you contribute.
+This is how you contribute. Please fork repository and issue pull request.
 
 ## Deployment
 
