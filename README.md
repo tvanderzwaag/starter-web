@@ -18,4 +18,4 @@ This is how you delploy. This is a simple web project.
 
 ## Copyright
 
-2014 Git Training
+2014 Git Training. All rights reserved.
