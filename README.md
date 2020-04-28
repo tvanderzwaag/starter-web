@@ -6,7 +6,7 @@ Now more changes from feature branch two.
 
 ## Purpose
 
-As stated above, this is a smaple repository for learning Git and GitHub.
+As stated above, this is a smaple repository for learning Git and GitHub. Then again, who needs a purpose in life.
 
 ## How To Contribute
 
