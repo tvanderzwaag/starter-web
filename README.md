@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work. Adding a line for rebasing example.
 
+Now more changes from feature branch two.
+
 ## Purpose
 
 As stated above, this is a smaple repository for learning Git and GitHub.
