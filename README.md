@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work. Adding a line for rebasing example.
 
-Now more changes from feature branch two.
+Now more changes from feature branch two. Updating emergency fix after stash.
 
 ## Purpose
 
